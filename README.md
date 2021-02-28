@@ -30,3 +30,4 @@
 4. Maven - https://maven.apache.org/download.cgi
 6. На Spring Boot используется встроенный БД H2 (Нет необходимости запускать сервер БД).
 # Да прибудет с Нами Java!
+![image](https://user-images.githubusercontent.com/57305724/109411051-6b44f200-79c9-11eb-9bfd-ee8f62e7788e.png)
