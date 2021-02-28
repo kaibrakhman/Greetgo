@@ -26,4 +26,4 @@
 3. Git - https://git-scm.com/downloads
 4. Maven - https://maven.apache.org/download.cgi
 6. На Spring Boot используется встроенный БД H2 (Нет необходимости запускать сервер БД).
-
+                                                    # Да прибудет с Вами Java
