@@ -25,5 +25,5 @@
 2. Java(jdk) - https://www.oracle.com/java/technologies/javase-downloads.html 
 3. Git - https://git-scm.com/downloads
 4. Maven - https://maven.apache.org/download.cgi
-6. На Spring Boot используется встроенный БД H2(Нет необходимости запускать сервер БД).
+6. На Spring Boot используется встроенный БД H2 (Нет необходимости запускать сервер БД).
 
