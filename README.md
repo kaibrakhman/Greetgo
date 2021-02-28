@@ -4,7 +4,7 @@
 2.        git clone https://github.com/kaibrakhman/Greetgo
 3. Чтобы запустить Spring boot, перейдите в папку C:\user\...\Greetgo\onlineSchool на командной строке и запустите команду:
 4.        mvn spring-boot:run
-5. Чтобы запустить React, перейдите в папку C:\User\...\Greetgo\education на командной строке и запустите команду:
+5. Чтобы запустить React, Сверните командную строку(Не закпывать!) и откройте новый, перейдите в папку C:\User\...\Greetgo\education на командной строке и запустите команду:
 6.        npm install
 7. Ждём, когда закончется загузка и парсинг, после запускаем команду:
 9.        npm start
