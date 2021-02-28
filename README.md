@@ -20,12 +20,10 @@
 19. Проверяем табицу на изменение.
 20. Заходим Edit и изменяем данные студента либо удаляем.
 21. Проверяем табицу на изменение.
-22. Если все сделано по инструкции ошибки не должно быть.
 # Стег технологии необходимые для запуска проекта(Обязательно!)
 1. Node.js - https://nodejs.org/en/download/
 2. Java(jdk) - https://www.oracle.com/java/technologies/javase-downloads.html 
 3. Git - https://git-scm.com/downloads
 4. Maven - https://maven.apache.org/download.cgi инструкция (https://www.youtube.com/watch?v=RfCWg5ay5B0)
 6. На Spring Boot используется встроенный БД H2(Нет необходимости запускать сервер БД).
-7. Можно скачать по ссылке
 
