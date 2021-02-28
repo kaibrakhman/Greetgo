@@ -20,7 +20,7 @@
 19. Проверяем табицу на изменение.
 20. Заходим Edit и изменяем данные студента либо удаляем.
 21. Проверяем табицу на изменение.
-# Стег технологии необходимые для запуска проекта(Обязательно!)
+# Стек технологии необходимые для запуска проекта(Обязательно!)
 1. Node.js - https://nodejs.org/en/download/
 2. Java(jdk) - https://www.oracle.com/java/technologies/javase-downloads.html 
 3. Git - https://git-scm.com/downloads
